@@ -18,3 +18,7 @@ passer à l'achat.
 * Réalisation d'un KMEANS : Détermination du nombre de groupes et interprétation de ceux ci
 * Régression linéaire
 * Arbre de décision
+
+## Découpage jeu de données
+Ce projet a aussi mis en évidence l'importance du découpage réalisé pour le jeu d'entrainement et le jeu de test.
+En effet nous avons réalisé différent découpage avec des résultats très différents.
