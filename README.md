@@ -7,6 +7,6 @@ passer à l'achat.
 # Préprocessing mis en oeuvre
 * Manipulation de dimension Date
 * Création des variables classiques pour la manipulation des clients
-** Récence
-** Fréquence
-** Montant
+ * Récence
+ * Fréquence
+ * Montant
